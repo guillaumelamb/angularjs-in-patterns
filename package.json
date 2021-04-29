@@ -26,7 +26,7 @@
     "gulp": "^3.9.0",
     "gulp-markdown-pdf": "https://github.com/manekinekko/gulp-markdown-pdf.git#master",
     "gulp-rename": "^1.2.2",
-    "gulp-replace": "^0.5.3",
+    "gulp-replace": "^1.1.2",
     "gulp-rimraf": "^0.1.1",
     "markdown-styles": "https://github.com/mgechev/markdown-styles/tarball/master",
     "run-sequence": "^1.1.1"
